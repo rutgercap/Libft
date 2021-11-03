@@ -6,11 +6,11 @@
 /*   By: rcappend <rcappend@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2020/11/02 11:41:20 by rcappend      #+#    #+#                 */
-/*   Updated: 2021/04/29 12:14:47 by rcappend      ########   odam.nl         */
+/*   Updated: 2021/11/03 14:23:37 by rcappend      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "utils.h"
+#include "libft.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {

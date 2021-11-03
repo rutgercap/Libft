@@ -6,11 +6,11 @@
 /*   By: rcappend <rcappend@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2020/11/09 13:45:28 by rcappend      #+#    #+#                 */
-/*   Updated: 2021/04/29 12:15:10 by rcappend      ########   odam.nl         */
+/*   Updated: 2021/11/03 14:23:37 by rcappend      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "utils.h"
+#include "libft.h"
 
 static	int	count_pointers(char const *s, char c)
 {

@@ -6,11 +6,11 @@
 /*   By: rcappend <rcappend@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2020/10/29 15:41:26 by rcappend      #+#    #+#                 */
-/*   Updated: 2021/04/29 13:35:13 by rcappend      ########   odam.nl         */
+/*   Updated: 2021/11/03 14:23:37 by rcappend      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "utils.h"
+#include "libft.h"
 
 void	*ft_memchr(const void *s, int c, size_t len)
 {
